@@ -1,0 +1,15 @@
+C:\Users\joaop\source\repos\GitExample\GitExample\bin\Debug\net5.0\GitExample.exe
+C:\Users\joaop\source\repos\GitExample\GitExample\bin\Debug\net5.0\GitExample.deps.json
+C:\Users\joaop\source\repos\GitExample\GitExample\bin\Debug\net5.0\GitExample.runtimeconfig.json
+C:\Users\joaop\source\repos\GitExample\GitExample\bin\Debug\net5.0\GitExample.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\GitExample\GitExample\bin\Debug\net5.0\GitExample.dll
+C:\Users\joaop\source\repos\GitExample\GitExample\bin\Debug\net5.0\ref\GitExample.dll
+C:\Users\joaop\source\repos\GitExample\GitExample\bin\Debug\net5.0\GitExample.pdb
+C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.AssemblyInfo.cs
+C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.dll
+C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\ref\GitExample.dll
+C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.pdb
+C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.genruntimeconfig.cache
