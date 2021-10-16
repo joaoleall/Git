@@ -13,3 +13,4 @@ C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.dl
 C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\ref\GitExample.dll
 C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.pdb
 C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.genruntimeconfig.cache
+C:\Users\joaop\source\repos\GitExample\GitExample\obj\Debug\net5.0\GitExample.csproj.AssemblyReference.cache
